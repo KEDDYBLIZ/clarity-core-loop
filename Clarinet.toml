@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/course.clar"
 depends_on = []
 
+[contracts.learn-token]
+path = "contracts/learn-token.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
